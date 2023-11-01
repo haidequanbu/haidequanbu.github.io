@@ -8,22 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-About me.
+*** About me. ***
 I am a second-year master's student in Fudan University supervised by [Professor Li Zhixu](http://demigroup.cn/staff/ZhiXuLi), and I work closely with Dr. Wang Xuwu and PhD student Chen Shisong. My current research focus on natural language processing, multimodal knowledge graphs, and multimodal entity linking. May join the research of large model (LLM) in the future.
 
-News:
+*** News: ***
+
 A new paper was acceptes by Jounal of software (China).
+
 I will join Shanghai ai lab as a research intern.
 
-Publications.
+*** Publications. ***
+
 A network asset identification method based on natural language processing feature engineering.(Patent:CN115733903A)
+
 赵海全,李金亮,王续武,李直旭,肖仰华.面向视频的细粒度多模态实体链接.软件学报,2024
 
-Internships and Projects.
+*** Internships and Projects. ***
+
 1.Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
+
 2.Fine-grained multimodal entity linking for video. (Fudan 2022.12-2023.7)
+
 3.Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
 
+Others:
+Backend management project front-end page;
+Reservoir flow query front-end page;
+Alumni second-hand website back-end query page;
+Nlp-begginner (text classification, sequence Annotation, language model and so on.); 
+network protocol text named entity recognition, entity relationship extraction.
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
