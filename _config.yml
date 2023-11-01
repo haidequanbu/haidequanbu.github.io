@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Haiquan Zhao"
-  avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "bio-photo.jpg"
+  bio              : "A master Student of Fudan University"
+  location         : "Shanghai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/haidequanbu/"
   google_plus      :
   keybase          :
   instagram        :
