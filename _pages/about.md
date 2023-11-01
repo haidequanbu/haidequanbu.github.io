@@ -25,17 +25,17 @@ I will join [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern.
 
 ### Publications. 
 
-A network asset identification method based on natural language processing feature engineering.(Patent:CN115733903A)
+* A network asset identification method based on natural language processing feature engineering.(Patent:CN115733903A)
 
-赵海全,李金亮,王续武,李直旭,肖仰华.面向视频的细粒度多模态实体链接.软件学报,2024
+* 赵海全,李金亮,王续武,李直旭,肖仰华.面向视频的细粒度多模态实体链接.软件学报,2024
 
 ### Internships and Projects. 
 
-1.Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
+1. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
 
-2.Fine-grained multimodal entity linking for video. (Fudan 2022.12-2023.7)
+2. Fine-grained multimodal entity linking for video. (Fudan 2022.12-2023.7)
 
-3.Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
+3. Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
 
 Others:
 Backend management project front-end page;
