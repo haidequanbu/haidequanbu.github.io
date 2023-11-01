@@ -20,8 +20,8 @@ I am a second-year master's student in Fudan University supervised by [Prof. Zhi
 
 ### Education:
 
-* B.S. in Wuhan, Wuhan University, 2022
-* M.S. in Shanghai, Fudan University, 2025 (expected)
+* B.S. in Wuhan, Wuhan University, 2022.
+* M.S. in Shanghai, Fudan University, 2025 (expected).
 
 ### Publications. 
 
