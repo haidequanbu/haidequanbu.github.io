@@ -8,23 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-*** About me.
+### About me.
 
 I am a second-year master's student in Fudan University supervised by [Professor Li Zhixu](http://demigroup.cn/staff/ZhiXuLi), and I work closely with Dr. Wang Xuwu and PhD student Chen Shisong. My current research focus on natural language processing, multimodal knowledge graphs, and multimodal entity linking. May join the research of large model (LLM) in the future.
 
-*** News: 
+### News: 
 
 A new paper was accepted by Jounal of software (China).
 
 I will join [Shanghai Ai Lab](https://www.shlab.org.cn/) as a research intern.
 
-*** Publications. 
+### Education:
+
+* B.S. in Wuhan, Wuhan University, 2022
+* M.S. in Shanghai, Fudan University, 2025 (expected)
+
+### Publications. 
 
 A network asset identification method based on natural language processing feature engineering.(Patent:CN115733903A)
 
 赵海全,李金亮,王续武,李直旭,肖仰华.面向视频的细粒度多模态实体链接.软件学报,2024
 
-*** Internships and Projects. 
+### Internships and Projects. 
 
 1.Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
 
