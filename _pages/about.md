@@ -13,9 +13,9 @@ I am a second-year master's student in Fudan University supervised by [Professor
 
 *** News: ***
 
-A new paper was acceptes by Jounal of software (China).
+A new paper was accepted by Jounal of software (China).
 
-I will join Shanghai ai lab as a research intern.
+I will join [Shanghai Ai Lab](https://www.shlab.org.cn/) as a research intern.
 
 *** Publications. ***
 
