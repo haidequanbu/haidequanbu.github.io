@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me.
 
-I am a second-year master's student in Fudan University supervised by [Prof. Zhixu Li](http://demigroup.cn/staff/ZhiXuLi), and I work closely with Dr. Xuwu Wang and PhD student [Shisong Chen](http://www.cheniison.cn). My current research focus on natural language processing, multimodal knowledge graphs, and multimodal entity linking. May join the research of large lauguage model (LLM) in the future.
+I am a second-year master's student in Fudan University supervised by [Prof. Zhixu Li](http://demigroup.cn/staff/ZhiXuLi), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html) and PhD student [Shisong Chen](http://www.cheniison.cn). My current research focus on natural language processing, multimodal knowledge graphs, and multimodal entity linking. May join the research of large lauguage model (LLM) in the future.
 
 ### News: 
 
