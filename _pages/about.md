@@ -27,7 +27,7 @@ I am a second-year master's student in Fudan University supervised by [Prof. Zhi
 
 * A network asset identification method based on natural language processing feature engineering.(Patent:CN115733903A)
 
-* 赵海全,王续武,李金亮,李直旭,肖仰华.面向视频的细粒度多模态实体链接.软件学报,2024
+* 赵海全,王续武,李金亮,李直旭,肖仰华.[面向视频的细粒度多模态实体链接](http://www.jos.org.cn/jos/article/abstract/7078).软件学报,2024
 
 ### Internships and Projects. 
 
