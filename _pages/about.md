@@ -29,7 +29,7 @@ I am a second-year master's student in Fudan University supervised by [Prof. Zhi
 
 * 赵海全,王续武,李金亮,李直旭,肖仰华.[面向视频的细粒度多模态实体链接](http://www.jos.org.cn/jos/article/abstract/7078).软件学报,2024
 
-* Haiquan Zhao, Xuwu Wang, Shisong Chen, Zhixu Li, Xin Zheng, Yanghua Xiao: OVEL: Large Language Model as Memory Manager for Online Video Entity Linking
+* Haiquan Zhao, Xuwu Wang, Shisong Chen, Zhixu Li, Xin Zheng, Yanghua Xiao: [OVEL: Large Language Model as Memory Manager for Online Video Entity Linking](https://arxiv.org/abs/2403.01411).
 
 ### Internships and Projects. 
 1. Benchmarking LLM's capability in the area of mental health.([Shanghai AI lab](https://www.shlab.org.cn/) Research Intern 2023.11-)
