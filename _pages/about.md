@@ -13,8 +13,8 @@ redirect_from:
 I am a second-year master's student in Fudan University supervised by [Prof. Zhixu Li](http://demigroup.cn/staff/ZhiXuLi), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html) and PhD student [Shisong Chen](http://www.cheniison.cn). My current research focus on natural language processing, multimodal knowledge graphs, and multimodal entity linking. May join the research of large lauguage model (LLM) in the future.
 
 ### News: 
-
-* I will join [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern.
+* A new paper could be accessed at [arxiv](https://arxiv.org/abs/2403.01411)!
+<!-- * I will join [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern. -->
 * A new paper was accepted by Jounal of software (China).
 
 
@@ -29,13 +29,18 @@ I am a second-year master's student in Fudan University supervised by [Prof. Zhi
 
 * 赵海全,王续武,李金亮,李直旭,肖仰华.[面向视频的细粒度多模态实体链接](http://www.jos.org.cn/jos/article/abstract/7078).软件学报,2024
 
+* Haiquan Zhao, Xuwu Wang, Shisong Chen, Zhixu Li, Xin Zheng, Yanghua Xiao: OVEL: Large Language Model as Memory Manager for Online Video Entity Linking
+
 ### Internships and Projects. 
+1. Benchmarking LLM's capability in the area of mental health.([Shanghai AI lab](https://www.shlab.org.cn/) Research Intern 2023.11-)
 
-1. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
+2. Long document Keypoint extraction base-on chatpdf.(Xingdian 2023.11-)
 
-2. Fine-grained multimodal entity linking for video. (Fudan 2022.12-2023.7)
+3. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
 
-3. Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
+4. Fine-grained multimodal entity linking for video. (Fudan 2022.12-2023.7)
+
+5. Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
 
 Others:
 * Backend management project front-end page;
