@@ -10,10 +10,10 @@ redirect_from:
 
 ### About me.
 
-I am a second-year master's student in Fudan University supervised by [Prof. Zhixu Li](http://demigroup.cn/staff/ZhiXuLi), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html) and PhD student [Shisong Chen](http://www.cheniison.cn). My current research focus on natural language processing, multimodal knowledge graphs, and multimodal entity linking. May join the research of large lauguage model (LLM) in the future.
+I am a second-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://demi.fudan.edu.cn/jiao_shixx/lzx.htm), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html) and PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en). My current research focus on natural language processing, multimodal knowledge graphs, and multimodal entity linking. May join the research of large lauguage model (LLM) in the future.
 
 ### News: 
-* A new paper could be accessed at [arxiv](https://arxiv.org/abs/2403.01411)!
+* A new paper could be accessed through [arxiv](https://arxiv.org/abs/2403.01411)!
 <!-- * I will join [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern. -->
 * A new paper was accepted by Jounal of software (China).
 
@@ -34,7 +34,7 @@ I am a second-year master's student in Fudan University supervised by [Prof. Zhi
 ### Internships and Projects. 
 1. Benchmarking LLM's capability in the area of mental health.([Shanghai AI lab](https://www.shlab.org.cn/) Research Intern 2023.11-)
 
-2. Long document Keypoint extraction base-on chatpdf.(Xingdian 2023.11-)
+2. Long document Keypoint extraction based on chatpdf.(Xingdian 2023.11-)
 
 3. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
 
