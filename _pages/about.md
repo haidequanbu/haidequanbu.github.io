@@ -10,12 +10,13 @@ redirect_from:
 
 ### About me.
 
-I am a second-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://demi.fudan.edu.cn/jiao_shixx/lzx.htm), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html) and PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en). My current research focus on natural language processing, multimodal knowledge graphs, and multimodal entity linking. May join the research of large lauguage model (LLM) in the future.
+I am a second-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://demi.fudan.edu.cn/jiao_shixx/lzx.htm), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en) and 
+independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs). May join the research of LLM alignment or LLM safety in the future.
 
 ### News: 
 * A new paper could be accessed through [arxiv](https://arxiv.org/abs/2403.01411)!
 <!-- * I will join [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern. -->
-* A new paper was accepted by Jounal of software (China).
+<!-- * A new paper was accepted by Jounal of software (China). -->
 
 
 ### Education:
@@ -23,24 +24,29 @@ I am a second-year master's student in Fudan University supervised by [Prof. Zhi
 * B.S. in Wuhan, Wuhan University, 2022.
 * M.S. in Shanghai, Fudan University, 2025 (expected).
 
+### Internships
+
+1. Large Language models safety Engineer. ([Tencent](https://www.tencent.com/) 2024.6-)
+
+2. Benchmarking LLM's capability in the area of mental health.([Shanghai AI lab](https://www.shlab.org.cn/) Research Intern 2023.11-2024.06)
+
+3. Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
+
+
 ### Publications. 
-
-* A network asset identification method based on natural language processing feature engineering.(Patent:CN115733903A)
-
-* 赵海全,王续武,李金亮,李直旭,肖仰华.[面向视频的细粒度多模态实体链接](http://www.jos.org.cn/jos/article/abstract/7078).软件学报,2024
 
 * Haiquan Zhao, Xuwu Wang, Shisong Chen, Zhixu Li, Xin Zheng, Yanghua Xiao: [OVEL: Large Language Model as Memory Manager for Online Video Entity Linking](https://arxiv.org/abs/2403.01411).
 
+* 赵海全,王续武,李金亮,李直旭,肖仰华.[面向视频的细粒度多模态实体链接](http://www.jos.org.cn/jos/article/abstract/7078).软件学报,2024
+
+* A network asset identification method based on natural language processing feature engineering.(Patent:CN115733903A)
+
 ### Internships and Projects. 
-1. Benchmarking LLM's capability in the area of mental health.([Shanghai AI lab](https://www.shlab.org.cn/) Research Intern 2023.11-)
+1. Long document Keypoint extraction based on chatpdf.(Xingdian 2023.11-)
 
-2. Long document Keypoint extraction based on chatpdf.(Xingdian 2023.11-)
+2. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
 
-3. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
-
-4. Fine-grained multimodal entity linking for video. (Fudan 2022.12-2023.7)
-
-5. Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
+3. Fine-grained multimodal entity linking for video. (Fudan 2022.12-2023.7)
 
 Others:
 * Backend management project front-end page;
