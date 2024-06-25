@@ -14,8 +14,8 @@ I am a second-year master's student in Fudan University supervised by [Prof. Zhi
 independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs). May join the research of LLM alignment or LLM safety in the future.
 
 ### News: 
-* A new paper could be accessed through [arxiv](https://arxiv.org/abs/2403.01411)!
-<!-- * I will join [Shanghai AI Lab](https://www.shlab.org.cn/) as a research intern. -->
+* A new paper could be accessed through [arxiv](https://arxiv.org/abs/2406.14952)!
+* I will join [Tencent](https://www.shlab.org.cn/) as an Algorithm Intern on LLM safety.
 <!-- * A new paper was accepted by Jounal of software (China). -->
 
 
@@ -35,18 +35,20 @@ independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research 
 
 ### Publications. 
 
+* Haiquan Zhao, Lingyu Li, Shisong Chen, Shuqi Kong, Jiaan Wang, Kexin Huang, Tianle Gu, Yixu Wang, Dandan Liang, Zhixu Li, Yan Teng, Yanghua Xiao, Yingchun Wang: [ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models](https://arxiv.org/abs/2406.14952).
+
 * Haiquan Zhao, Xuwu Wang, Shisong Chen, Zhixu Li, Xin Zheng, Yanghua Xiao: [OVEL: Large Language Model as Memory Manager for Online Video Entity Linking](https://arxiv.org/abs/2403.01411).
 
-* 赵海全,王续武,李金亮,李直旭,肖仰华.[面向视频的细粒度多模态实体链接](http://www.jos.org.cn/jos/article/abstract/7078).软件学报,2024
+* 赵海全,王续武,李金亮,李直旭,肖仰华.[面向视频的细粒度多模态实体链接](http://www.jos.org.cn/jos/article/abstract/7078).软件学报,2023
 
-* A network asset identification method based on natural language processing feature engineering.(Patent:CN115733903A)
+* A network asset identification method based on natural language processing feature engineering. (Patent:CN115733903A)
 
 ### Internships and Projects. 
-1. Long document Keypoint extraction based on chatpdf.(Xingdian 2023.11-)
+1. Long document Keypoint extraction based on chatpdf. (Xingdian 2023.11-)
 
 2. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
 
-3. Fine-grained multimodal entity linking for video. (Fudan 2022.12-2023.7)
+3. Fine-grained multimodal entity linking for video. (Fudan University 2022.12-2023.7)
 
 Others:
 * Backend management project front-end page;
