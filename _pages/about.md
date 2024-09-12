@@ -31,9 +31,9 @@ independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research 
 
 2. Algorithm Intern on Large Language Model data engineering. ([Tencent](https://www.tencent.com/) 2024.6-2024.09)
 
-3. Research intern on emotional intelligence. ([Shanghai AI lab](https://www.shlab.org.cn/) Research Intern 2023.11-2024.06)
+3. Research intern on emotional intelligence. ([Shanghai AI lab](https://www.shlab.org.cn/) 2023.11-2024.06)
 
-4. Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
+4. Network asset identification based on natural language processing feature engineering. ([Huashun Xinan](https://huashunxinan.net/) 2022.6-2022.8)
 
 
 ### Publications. 
