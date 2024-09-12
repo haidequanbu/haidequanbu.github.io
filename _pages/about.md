@@ -11,7 +11,7 @@ redirect_from:
 ### About me.
 
 I am a final-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://demi.fudan.edu.cn/jiao_shixx/lzx.htm), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en) and 
-independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs).And I will join the research of LLM alignment or LLM safety in the future.
+independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs). I will join the research of LLM alignment or LLM safety in the future.
 
 ### News: 
 * A new paper [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/abs/2408.02535) was accpeted as long paper in CIKM 2024!
