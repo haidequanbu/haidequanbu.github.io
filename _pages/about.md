@@ -27,7 +27,7 @@ independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research 
 
 ### Internships
 
-1. Research intern on safety of large language model. ([Qwen Team](https://www.tencent.com/) 2024.09-)
+1. Research intern on safety of large language model. ([Qwen Team](https://qwenlm.github.io/) 2024.09-)
 
 2. Algorithm Intern on Large Language Model data engineering. ([Tencent](https://www.tencent.com/) 2024.6-2024.09)
 
