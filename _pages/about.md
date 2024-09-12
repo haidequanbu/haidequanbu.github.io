@@ -10,12 +10,13 @@ redirect_from:
 
 ### About me.
 
-I am a second-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://demi.fudan.edu.cn/jiao_shixx/lzx.htm), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en) and 
-independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs). May join the research of LLM alignment or LLM safety in the future.
+I am a final-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://demi.fudan.edu.cn/jiao_shixx/lzx.htm), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en) and 
+independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs).And I will join the research of LLM alignment or LLM safety in the future.
 
 ### News: 
-* A new paper could be accessed through [arxiv](https://arxiv.org/abs/2406.14952)!
-* I will join [Tencent](https://www.shlab.org.cn/) as an Algorithm Intern on LLM safety.
+* A new paper [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/abs/2408.02535) accpeted as long paper in CIKM 2024!
+
+* I will join [Qwen Team](https://qwenlm.github.io/) as an Research Intern on LLM safety.
 <!-- * A new paper was accepted by Jounal of software (China). -->
 
 
@@ -26,14 +27,18 @@ independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research 
 
 ### Internships
 
-1. Large Language models safety Engineer. ([Tencent](https://www.tencent.com/) 2024.6-)
+1. Research intern on safety of large language model. ([Qwen Team](https://www.tencent.com/) 2024.09-)
 
-2. Benchmarking LLM's capability in the area of mental health.([Shanghai AI lab](https://www.shlab.org.cn/) Research Intern 2023.11-2024.06)
+2. Algorithm Intern on Large Language Model data engineering. ([Tencent](https://www.tencent.com/) 2024.6-2024.09)
 
-3. Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
+3. Research intern on emotional intelligence. ([Shanghai AI lab](https://www.shlab.org.cn/) Research Intern 2023.11-2024.06)
+
+4. Network asset identification based on natural language processing feature engineering. (Huashun Xin'an Algorithm Intern 2022.6-2022.8)
 
 
 ### Publications. 
+
+* Kaichen Zhao, Yaoxian Song, Haiquan Zhao, Haoyu Liu, Tiefeng Li, Zhixu Li: [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/abs/2408.02535).
 
 * Haiquan Zhao, Lingyu Li, Shisong Chen, Shuqi Kong, Jiaan Wang, Kexin Huang, Tianle Gu, Yixu Wang, Dandan Liang, Zhixu Li, Yan Teng, Yanghua Xiao, Yingchun Wang: [ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models](https://arxiv.org/abs/2406.14952).
 
@@ -44,7 +49,7 @@ independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research 
 * A network asset identification method based on natural language processing feature engineering. (Patent:CN115733903A)
 
 ### Internships and Projects. 
-1. Long document Keypoint extraction based on chatpdf. (Xingdian 2023.11-)
+1. Long document Keypoint extraction based on chatpdf. (Xingdian 2023.11-2024.07)
 
 2. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
 
