@@ -14,7 +14,7 @@ I am a final-year master's student in Fudan University supervised by [Prof. Zhix
 independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs).And I will join the research of LLM alignment or LLM safety in the future.
 
 ### News: 
-* A new paper [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/abs/2408.02535) accpeted as long paper in CIKM 2024!
+* A new paper [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/abs/2408.02535) was accpeted as long paper in CIKM 2024!
 
 * I will join [Qwen Team](https://qwenlm.github.io/) as an Research Intern on LLM safety.
 <!-- * A new paper was accepted by Jounal of software (China). -->
