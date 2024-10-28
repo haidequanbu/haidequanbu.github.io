@@ -10,13 +10,15 @@ redirect_from:
 
 ### About me.
 
-I am a final-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://demi.fudan.edu.cn/jiao_shixx/lzx.htm), and I work closely with [Dr. Xuwu Wang](https://dblp.org/pid/247/9313.html), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en) and 
-independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs). I will join the research of LLM alignment or LLM safety in the future.
+I am a final-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://sites.google.com/site/zhixuli), and I work closely with [Dr. Xuwu Wang](https://scholar.google.com/citations?user=Fww9LGsAAAAJ&hl=zh-CN), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en) and 
+independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=zh-CN). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs). I will join the research of LLM alignment or LLM safety in the future.
 
 ### News: 
+* ESC-Eval [ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models](https://arxiv.org/abs/2406.14952) was accpeted by EMNLP 2024 (oral)!
+
 * A new paper [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/abs/2408.02535) was accpeted as long paper in CIKM 2024!
 
-* I will join [Qwen Team](https://qwenlm.github.io/) as an Research Intern on LLM safety.
+<!-- * I will join [Qwen Team](https://qwenlm.github.io/) as an Research Intern on LLM safety. -->
 <!-- * A new paper was accepted by Jounal of software (China). -->
 
 
@@ -40,7 +42,7 @@ independent researcher [Jiaan Wang](https://wangjiaan.cn/). My current research 
 
 * Kaichen Zhao, Yaoxian Song, Haiquan Zhao, Haoyu Liu, Tiefeng Li, Zhixu Li: [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/abs/2408.02535). CIKM 2024.
 
-* Haiquan Zhao, Lingyu Li, Shisong Chen, Shuqi Kong, Jiaan Wang, Kexin Huang, Tianle Gu, Yixu Wang, Dandan Liang, Zhixu Li, Yan Teng, Yanghua Xiao, Yingchun Wang: [ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models](https://arxiv.org/abs/2406.14952).
+* Haiquan Zhao, Lingyu Li, Shisong Chen, Shuqi Kong, Jiaan Wang, Kexin Huang, Tianle Gu, Yixu Wang, Dandan Liang, Zhixu Li, Yan Teng, Yanghua Xiao, Yingchun Wang: [ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models](https://arxiv.org/abs/2406.14952). EMNLP 2024.
 
 * Haiquan Zhao, Xuwu Wang, Shisong Chen, Zhixu Li, Xin Zheng, Yanghua Xiao: [OVEL: Large Language Model as Memory Manager for Online Video Entity Linking](https://arxiv.org/abs/2403.01411).
 
