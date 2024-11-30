@@ -11,12 +11,12 @@ redirect_from:
 ### About me.
 
 I am a final-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://sites.google.com/site/zhixuli), and I work closely with [Dr. Xuwu Wang](https://scholar.google.com/citations?user=Fww9LGsAAAAJ&hl=zh-CN), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en) and 
-independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=zh-CN). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs) like Emotion Agents(ESC-Eval), LLM-Safety.
+independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=zh-CN). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs) like Emotion Agents(ESC-Eval) and LLM-Safety. May join the research of LLM reasoning in the future.
 
 ### News: 
 * OVEL [OVEL: Online Video Entity Linking](https://arxiv.org/abs/2403.01411) was accpeted by COLING 2025!
 
-* ESC-Eval [ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models](https://arxiv.org/abs/2406.14952) was accpeted by EMNLP 2024 (oral)!
+* ESC-Eval [ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models](https://arxiv.org/abs/2406.14952) was accpeted by EMNLP 2024 (Oral)!
 
 <!-- * A new paper [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](https://arxiv.org/abs/2408.02535) was accpeted as long paper in CIKM 2024! -->
 
@@ -31,11 +31,11 @@ independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S
 
 ### Internships
 
-1. Research intern on safety of large language model. ([Qwen Team](https://qwenlm.github.io/) 2024.09-)
+1. Research Intern on Safety of Large Language Model. ([Qwen Team](https://qwenlm.github.io/) 2024.09-)
 
 2. Algorithm Intern on Large Language Model data engineering. ([Tencent](https://www.tencent.com/) 2024.6-2024.09)
 
-3. Research intern on emotional intelligence. ([Shanghai AI lab](https://www.shlab.org.cn/) 2023.11-2024.06)
+3. Research Intern on Emotional Intelligence. ([Shanghai AI lab](https://www.shlab.org.cn/) 2023.11-2024.06)
 
 4. Network asset identification based on natural language processing feature engineering. ([Huashun Xinan](https://huashunxinan.net/) 2022.6-2022.8)
 
