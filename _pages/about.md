@@ -67,9 +67,9 @@ I received my Bachelor’s degree in Computer Science and Technology from Wuhan 
 
 ### Research Activities:
 
-***Reviewer**: arr 2025.
+**Reviewer**: ARR 2025.
 
-Others:
+### Others:
 * Backend management project front-end page;
 * Reservoir flow query front-end page;
 * Alumni second-hand website back-end query page;
