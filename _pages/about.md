@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 ### About me.
-I am an Algorithm Engineer on the [Qwen Team](https://qwenlm.github.io/) at Alibaba Group, where I focus on Large Language Model (LLM) safety and decoding strategies. I work closely with [Dr. Fei Huang](https://scholar.google.com.hk/citations?user=7udAEzMAAAAJ&hl=en)
-Prior to joining Alibaba, I earned my Master’s degree from Fudan University under the supervision of [Prof. Zhixu Li](https://sites.google.com/site/zhixuli). During this time, I collaborated closely with [Dr. Xuwu Wang](https://scholar.google.com/citations?user=Fww9LGsAAAAJ&hl=zh-CN), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en), and independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=zh-CN). My research interests lie primarily in natural language processing and large language models, with a particular emphasis on LLM safety and emotion-aware agents. I have also conducted research in the area of Multimodal Knowledge Graphs (MMKG). 
+I am an Algorithm Engineer on the [Qwen Team](https://qwenlm.github.io/) at Alibaba Group, where I focus on Large Language Model (LLM) safety and decoding strategies. I work closely with [Dr. Fei Huang](https://scholar.google.com.hk/citations?user=7udAEzMAAAAJ&hl=en).
+
+Prior to joining Alibaba, I earned my Master’s degree from Fudan University under the supervision of [Prof. Zhixu Li](https://sites.google.com/site/zhixuli). During this time, I collaborated closely with [Dr. Xuwu Wang](https://scholar.google.com/citations?user=Fww9LGsAAAAJ&hl=zh-CN), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en), and independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=zh-CN). My research interests lie primarily in natural language processing and large language models, with a particular emphasis on LLM safety and emotion-aware agents. I have also conducted research in the area of Multimodal Knowledge Graphs (MMKG).
+
 I received my Bachelor’s degree in Computer Science and Technology from Wuhan University.
 
-* Feel free to 
+<!-- * Feel free to attech me -->
 
 <!-- * I am skilled with LLM evaluation, and familier with Supervised-Fintuning -->
 
@@ -56,7 +58,7 @@ I received my Bachelor’s degree in Computer Science and Technology from Wuhan 
 
 * A network asset identification method based on natural language processing feature engineering. (Patent:CN115733903A)
 
-### Internships and Projects. 
+### Projects. 
 1. Long document Keypoint extraction based on chatpdf. (Xingdian 2023.11-2024.07)
 
 2. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
@@ -65,7 +67,7 @@ I received my Bachelor’s degree in Computer Science and Technology from Wuhan 
 
 ### Research Activities:
 
-##Reviewer##: arr 2025
+***Reviewer**: arr 2025.
 
 Others:
 * Backend management project front-end page;
