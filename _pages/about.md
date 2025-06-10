@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 ### About me.
+I am an Algorithm Engineer on the [Qwen Team](https://qwenlm.github.io/) at Alibaba Group, where I focus on Large Language Model (LLM) safety and decoding strategies. I work closely with [Dr. Fei Huang](https://scholar.google.com.hk/citations?user=7udAEzMAAAAJ&hl=en)
+Prior to joining Alibaba, I earned my Master’s degree from Fudan University under the supervision of [Prof. Zhixu Li](https://sites.google.com/site/zhixuli). During this time, I collaborated closely with [Dr. Xuwu Wang](https://scholar.google.com/citations?user=Fww9LGsAAAAJ&hl=zh-CN), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en), and independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=zh-CN). My research interests lie primarily in natural language processing and large language models, with a particular emphasis on LLM safety and emotion-aware agents. I have also conducted research in the area of Multimodal Knowledge Graphs (MMKG). 
+I received my Bachelor’s degree in Computer Science and Technology from Wuhan University.
 
-I am a final-year master's student in Fudan University supervised by [Prof. Zhixu Li](https://sites.google.com/site/zhixuli), and I work closely with [Dr. Xuwu Wang](https://scholar.google.com/citations?user=Fww9LGsAAAAJ&hl=zh-CN), PhD student [Shisong Chen](https://scholar.google.com/citations?user=rYv7uh8AAAAJ&hl=en) and 
-independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=zh-CN). My current research focus on natural language processing, especially application research related to Large Language Models (LLMs) like Emotion Agents(ESC-Eval) and LLM-Safety. May join the research of LLM reasoning in the future.
+* Feel free to 
+
+<!-- * I am skilled with LLM evaluation, and familier with Supervised-Fintuning -->
 
 ### News: 
 * OVEL [OVEL: Online Video Entity Linking](https://arxiv.org/abs/2403.01411) was accpeted by COLING 2025!
@@ -58,6 +62,10 @@ independent researcher [Jiaan Wang](https://scholar.google.com/citations?user=5S
 2. Semi-automatic schema construction based on course introduction. (Huawei 2022.11-2023.10)
 
 3. Fine-grained multimodal entity linking for video. (Fudan University 2022.12-2023.7)
+
+### Research Activities:
+
+##Reviewer##: arr 2025
 
 Others:
 * Backend management project front-end page;
